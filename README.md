@@ -17,3 +17,9 @@ UI
 
 Comments
 * https://disqus.com/
+
+Hosting sites
+* Openshift
+* Heroku
+* 
+
