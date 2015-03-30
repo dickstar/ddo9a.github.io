@@ -9,6 +9,7 @@ you can [get the image]({{ site.url }}/files/nfc.png) directly.
 Javascript
 * D3.js http://d3js.org/
   * 參考 http://wcc723.github.io/
+* SVG & CSS & GIF templates http://loading.io/
 
 UI
 * http://getbootstrap.com/
