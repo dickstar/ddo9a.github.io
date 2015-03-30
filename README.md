@@ -2,6 +2,10 @@
 
 you can [get the image]({{ site.url }}/files/nfc.png) directly.
 
+```
+記錄
+```
+
 Javascript
 * D3.js http://wcc723.github.io/
 
