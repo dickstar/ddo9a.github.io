@@ -8,7 +8,8 @@ you can [get the image]({{ site.url }}/files/nfc.png) directly.
 
 Javascript
 * D3.js http://d3js.org/
-  * 參考 http://wcc723.github.io/
+  * 參考 
+    * http://wcc723.github.io/
 * SVG & CSS & GIF templates http://loading.io/
 
 UI
@@ -22,6 +23,10 @@ Hosting sites
 * Openshift
 * Heroku
 * 
+
+SASS
+* 參考
+  * http://sam0512.blogspot.tw/2013/10/sass.html
 
 Draw flowcharts online
 * draw.io
