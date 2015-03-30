@@ -23,3 +23,16 @@ Hosting sites
 * Heroku
 * 
 
+Draw flowcharts online
+* draw.io
+* creately.com
+* gliffy.com
+
+Challanging services
+* https://uknowiknow.com/
+
+Misc
+* gitbook
+*
+*
+
